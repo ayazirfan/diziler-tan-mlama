@@ -1,2 +1,2 @@
-# diziler-tan-mlama
+# diziler-tanimlama
 odev
