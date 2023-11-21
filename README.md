@@ -1,0 +1,2 @@
+# diziler-tan-mlama
+odev
